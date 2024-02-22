@@ -2,12 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f1d3ed,50:eeaed7,70:a4abea,100:80ebf3&text=Hi%20I'm%20Eunseo&fontColor=ffffff&fontWeight=thin&fontSize=80&fontAlignY=40&fontAlign=60&height=250" />
 
 ## My Stack
+<img src="https://img.shields.io/badge/Flutter-eeaed7?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/React-f1d3ed?style=for-the-badge&logo=React&logoColor=white"> 
 <img src="https://img.shields.io/badge/HTML5-eeaed7?style=for-the-badge&logo=HTML5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-a4abea?style=for-the-badge&logo=CSS3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-80ebf3?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 <img src="https://img.shields.io/badge/styled components-f1d3ed?style=for-the-badge&logo=styled-components&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flutter-eeaed7?style=for-the-badge&logo=flutter&logoColor=white">
+
 
 ### etc
 <img src="https://img.shields.io/badge/Visual Studio Code-a4abea?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"> 
