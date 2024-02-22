@@ -12,7 +12,6 @@
 ### etc
 <img src="https://img.shields.io/badge/Visual Studio Code-a4abea?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"> 
 <img src="https://img.shields.io/badge/Figma-a4abea?style=for-the-badge&logo=Figma&logoColor=white"> 
-<img src="https://img.shields.io/badge/Slack-a4abea?style=for-the-badge&logo=Slack&logoColor=white"> 
 
 ### Contect
 <img src="https://img.shields.io/badge/Gmail-f1d3ed?style=flat&logo=Gmail&logoColor=white"> eunseogo48@gmail.com
@@ -26,5 +25,3 @@
 <br />
 [Habit tracker 디자인](https://www.figma.com/file/5u7B3Powcf9knaiRP9YhHL/habit-tracker?type=design&t=yT9OzqKUcYbfZlhR-1)
 <br />
-[Hbaf 홈페이지 디자인](https://www.figma.com/file/RkawoDh7nkw7IEul9YEnRf/%EB%B0%94%ED%94%84?type=design&node-id=0%3A1&t=yT9OzqKUcYbfZlhR-1)
-</div>
